@@ -1,0 +1,189 @@
+.header{
+    background:#3b5998;
+    width:100%;
+    height: 85px;
+}
+body{
+    margin:0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    color: #fff;            /* To change the <a>tag blue color to white */
+    font-size: 35px;
+    font-weight: bold;        /* To bold the font */
+    text-decoration: none;    /* To remove underline in <a>tag */
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #2c3f61;
+    cursor: pointer;
+    border: 0;
+}
+.sub-btn:hover{
+    background: red;
+}
+.left-section{
+    width: 48%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 25%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 750px;
+}
+.image{
+    width: 751px;
+}
+.para{
+    font-weight: bold;
+    font-size: 27px;
+}
+.h1-acc{
+    font-size: 38px;
+    margin-bottom: -10px;
+}
+.p-acc{
+    font-size: 22px;
+}
+.first{
+    height: 40px;
+    width: 40%;
+    border-radius: 10px;
+    border: 2px solid #D3D8E8;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.sur{
+    height: 40px;
+    width: 40%;
+    border-radius: 10px;
+    border: 2px solid #D3D8E8;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.mob-email{
+    height: 40px;
+    width: 84%;
+    border-radius: 10px;
+    border: 2px solid #D3D8E8;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.pass{
+    height: 40px;
+    width: 84%;
+    border-radius: 10px;
+    border: 2px solid #D3D8E8;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.pass1{
+    height: 40px;
+    width: 84%;
+    border-radius: 10px;
+    border: 2px solid #D3D8E8;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.birth{
+    padding: 2px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #748094;
+    margin-right: 100%;
+}
+.day{
+    margin-top: 10px;
+    padding: 5px;
+    border: solid 1px;
+    border-color: #bac0ca;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.que{
+    border-radius: 50%;
+    border: none;
+    background: #748094;
+    color: #fff;
+    margin-left: 8px;
+}
+.radio{
+    margin-top: 20px;
+    height: 15px;
+    width: 15px;
+}
+.radio-text{
+    font-size: 20px;
+    padding-right: 20px;
+}
+.para-terms{
+    padding-top: 10px;
+    font-size: 14px;
+    color: #748094;
+}
+.submit{
+    margin-top: 10px;
+    height: 50px;
+    width: 50%;
+    background: green;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+.create{
+    margin-top: 40px;
+}
+.footer{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.foot-left{
+    width: 52%;
+    float: left;
+}
+.foot-right{
+    width: 48%;
+    float: left;
+}
+.foot-p{
+    padding-left: 20px;
+    float: left;
+}
